@@ -7,4 +7,4 @@ API base sport quiz application using tkinter module for GUI.
 * Has a score once the answer is correct
 
 # Image
-![Finished App](image/pic.PNG)
+![Finished App](image/pic1.PNG)
